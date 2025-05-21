@@ -10,6 +10,6 @@ while quest == 'Yes' or quest == 'Y':
         break
     print(int(x)*int(x))
 else:
-    print("ну нет так нет, еблан")
+    print("ну нет так нет")
 print("окончено")
 input()
